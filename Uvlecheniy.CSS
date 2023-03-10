@@ -1,0 +1,18 @@
+body { 
+    background-image: url('Fon.jpg'); 
+}
+
+p {
+    margin: 10px 0;
+    padding: 5px;
+    border: 2px solid #008fb3;
+    width: 750px;
+}
+
+.ssilka { 
+    color: #008fb3;
+}
+
+.image {
+    outline: 2px solid #008fb3;
+}
